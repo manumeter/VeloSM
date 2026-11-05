@@ -1,0 +1,3 @@
+tags:
+  network:
+    skip: "Uses live servers. Run with: flutter test --run-skipped -t network"
